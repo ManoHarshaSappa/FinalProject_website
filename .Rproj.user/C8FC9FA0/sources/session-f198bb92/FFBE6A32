@@ -3,7 +3,7 @@
     "path": "~/Desktop/Stat_Final_project de/FinalProject_website/Home.qmd",
     "project_path": "Home.qmd",
     "type": "quarto_markdown",
-    "hash": "184013731",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1714526726234.0,
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "61:0"
+        "rmdVisualModeLocation": "65:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1714530563,
+    "lastKnownWriteTime": 1714531393,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1714530563265,
+    "last_content_update": 1714531393933,
     "read_only": false,
     "read_only_alternatives": []
 }
